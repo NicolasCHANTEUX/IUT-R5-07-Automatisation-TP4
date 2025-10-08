@@ -57,4 +57,4 @@ public class Calculette {
         }
         return resultat();
     }
-}
+} 
